@@ -1,6 +1,6 @@
 # Saira Mary Twinkle | Portfolio
 
-🌐 **Live Portfolio:** [Click here to view](  )
+🌐 **Live Portfolio:** [Click here to view](https://saira-code.github.io/portfolio/)
 
 A personal portfolio website to showcase who I am, what I’ve learned, and the projects I’ve worked on.  
 Built with **HTML, CSS, and JavaScript**, and hosted using **GitHub Pages**.
